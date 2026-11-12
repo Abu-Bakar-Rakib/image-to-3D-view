@@ -95,7 +95,7 @@ Upload an image → get a `.glb` → rotate it with your mouse → embed it on a
 ### Local (CUDA GPU)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/image-to-3d-product-viewer.git
+git clone https://github.com/Abu-Bakar-Rakib/image-to-3d-product-viewer.git
 cd image-to-3d-product-viewer
 python app.py
 ```
