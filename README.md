@@ -36,6 +36,7 @@ Upload an image → get a `.glb` → rotate it with your mouse → embed it on a
 - [License](#-license)
 
 ---
+<img width="1277" height="640" alt="image" src="https://github.com/user-attachments/assets/65507ee7-b357-40f1-b68f-d6b2b4ba7ee2" />
 
 ## ✨ Features
 
